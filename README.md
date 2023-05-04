@@ -1,6 +1,6 @@
 # readme-generator
 
-The readme generator is a command-line application that helps save time when creating a new project.
+The readme generator is a command-line application that generates a readme file to help save time when working on a new project.
 
 ## Technologies Used
 
