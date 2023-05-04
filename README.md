@@ -5,7 +5,7 @@ The readme generator is a command-line application that generates a readme file 
 ## Technologies Used
 
 *Node.js  
-*npm
+*npm  
 *JavaScript
 
 ## Description
