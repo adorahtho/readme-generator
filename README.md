@@ -19,7 +19,7 @@ The readme generator will ask the user a series of questions in the command line
 3. Install inquirer by entering, "npm i inquirer@8.2.4" in the command-line.
 
 ## Link to Walkthrough Video
-
+https://drive.google.com/file/d/1UOg2dfGibm_OtIy44OMwTlc_mMj9fvDk/view
 
 ## Author & Acknowledgements
 * https://github.com/thoak90codes
