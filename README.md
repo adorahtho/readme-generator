@@ -12,6 +12,9 @@ The readme generator is a command-line application that generates a readme file 
 
 The readme generator will ask the user a series of questions in the command line and use the answers to complete each section of the readme file. Once all questions have been answered the README file will be generated. 
 
+## Visual
+![Generated sample readme file.](./Develop/utils/Images/generated-readme-ss.png)
+
 ## Installation
 
 1. Create index.js file.
